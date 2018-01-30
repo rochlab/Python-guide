@@ -21,18 +21,18 @@ Python官方站点曾经被屏蔽过，在写下这篇文章(2018/1/30)的时候
 [GCC 4.8.2] on linux2
 Type "help", "copyright", "credits" or "license" for more informat
 ion.
->>> 
+>>> ```
 
 -从最简单的入手 Hello world
 
 我们来打印一个hello world:
 ```>>> print ('Hello World!')
-Hello World!
+Hello World!```
 
 Python被官方形容为Quick & Easy to Learn, 其官网上给出的另一个实例是:
 ```>>>name = input('What is your name\n')
 What is your name
 hexu
 >>>print('Hi,%s.' % name)
-Hi,hexu.
+Hi,hexu.```
  
